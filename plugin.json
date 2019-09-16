@@ -1,0 +1,12 @@
+{
+    "js": [
+        "vendor/react.production.min.js",
+        "vendor/react-dom.production.min.js",
+        "vendor/three.min.js",
+        "vendor/network-visualization.umd.js",
+        "js/widget.js"
+    ],
+    "css": ["css/style.css"],
+    "templates": ["templates/template.html"],
+    "callback": ["acdh_visualization"]
+}
