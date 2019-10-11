@@ -3,3 +3,12 @@
     position:relative;
     background:white;
 }
+
+#acdh_visualization .widget-header {
+    color:white;
+    background:#88D8DF;
+}
+
+#acdh_visualization h3 {
+    padding:5px;
+}
